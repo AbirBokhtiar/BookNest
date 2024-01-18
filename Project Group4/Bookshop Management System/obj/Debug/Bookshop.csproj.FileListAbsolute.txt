@@ -1,0 +1,84 @@
+C:\Users\Fahad Mughal\source\repos\Bookshop\bin\Debug\Bookshop.exe.config
+C:\Users\Fahad Mughal\source\repos\Bookshop\bin\Debug\Bookshop.exe
+C:\Users\Fahad Mughal\source\repos\Bookshop\bin\Debug\Bookshop.pdb
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Properties.Resources.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.csproj.GenerateResource.cache
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.csproj.CoreCompileInputs.cache
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.exe
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.pdb
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.csprojAssemblyReference.cache
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Supplier.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Employees.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Customers_Details.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Orders.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Menu.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Stock.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Bills.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Payments.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.ReturnedOrders.resources
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\bin\Debug\Bookshop.exe.config
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\bin\Debug\Bookshop.exe
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\bin\Debug\Bookshop.pdb
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.csproj.AssemblyReference.cache
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Bills.resources
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Customers_Details.resources
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Employees.resources
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Payments.resources
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.ReturnedOrders.resources
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Stock.resources
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Menu.resources
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Orders.resources
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Properties.Resources.resources
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Supplier.resources
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.csproj.GenerateResource.cache
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.csproj.CoreCompileInputs.cache
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.exe
+C:\Users\abir\Desktop\New folder (3)\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.pdb
+E:\C#\bookshop-management-system-main\Bookshop Management System\bin\Debug\Bookshop.exe.config
+E:\C#\bookshop-management-system-main\Bookshop Management System\bin\Debug\Bookshop.exe
+E:\C#\bookshop-management-system-main\Bookshop Management System\bin\Debug\Bookshop.pdb
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.csproj.AssemblyReference.cache
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.csproj.SuggestedBindingRedirects.cache
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Properties.Resources.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.csproj.GenerateResource.cache
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.csproj.CoreCompileInputs.cache
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.exe
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.pdb
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\bin\Debug\Bookshop.exe.config
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\bin\Debug\Bookshop.exe
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\bin\Debug\Bookshop.pdb
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.csproj.AssemblyReference.cache
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.csproj.SuggestedBindingRedirects.cache
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.Properties.Resources.resources
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.csproj.GenerateResource.cache
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.csproj.CoreCompileInputs.cache
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.exe
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.pdb
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.Login.resources
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.Loading.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Loading.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Login.resources
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.CustomerUserMenu.resources
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.AdminMenu.resources
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.AdminMenu2.resources
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.AdminMenu3.resources
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.SigningUp.resources
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.BillHistory.resources
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.AdminMenu4.resources
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.ResetPassword.resources
+E:\CSE\B.Sc in CSE\OOP 2\Projects\Our Final Project\Bookshop Management System\obj\Debug\Bookshop.UserStatus.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.AdminMenu.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.AdminMenu2.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.AdminMenu3.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.AdminMenu4.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.BillHistory.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.CustomerUserMenu.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.ResetPassword.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.SigningUp.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.UserStatus.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.EmployeeMenu.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.SupplierMenu.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.BookStatus.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.CustomerUserMenu2.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.EmployeeMenu2.resources
+E:\C#\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.SupplierMenu2.resources
