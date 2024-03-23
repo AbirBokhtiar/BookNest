@@ -1,1 +1,1 @@
-# Online BookStore Management System using C#.Net and SQL Database
+# An Online BookStore Management System using C#.Net and SQL Database
